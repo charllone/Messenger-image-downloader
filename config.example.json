@@ -1,0 +1,10 @@
+{
+  "pushbullet_api_key": "YOUR_PUSHBULLET_API_KEY_HERE",
+  "download_button_image": "templates/download_button.png",
+  "next_button_image": "templates/next_button.png",
+  "confidence_threshold": 0.8,
+  "max_iterations": 100,
+  "delay_between_clicks": 1.5,
+  "human_like_movement": true,
+  "movement_duration": 0.5
+}
