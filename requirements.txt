@@ -1,0 +1,5 @@
+pyautogui==0.9.54
+opencv-python==4.8.1.78
+Pillow>=10.2.0
+numpy==1.24.3
+pushbullet.py==0.12.0
