@@ -1,0 +1,4 @@
+pyautogui
+pushbullet.py
+pillow
+opencv-python
